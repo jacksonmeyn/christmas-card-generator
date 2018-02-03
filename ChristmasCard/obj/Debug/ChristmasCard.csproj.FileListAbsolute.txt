@@ -1,0 +1,14 @@
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\bin\Debug\ChristmasCard.exe.config
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\bin\Debug\ChristmasCard.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\bin\Debug\ChristmasCard.pdb
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\obj\Debug\ChristmasCard.csprojResolveAssemblyReference.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\obj\Debug\ChristmasCard.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\obj\Debug\ChristmasCard.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCard\ChristmasCard\obj\Debug\ChristmasCard.pdb
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\obj\Debug\ChristmasCard.csprojResolveAssemblyReference.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\obj\Debug\ChristmasCard.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\obj\Debug\ChristmasCard.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\obj\Debug\ChristmasCard.pdb
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\bin\Debug\ChristmasCard.exe.config
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\bin\Debug\ChristmasCard.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\ChristmasCardwExceptions\ChristmasCard\bin\Debug\ChristmasCard.pdb
